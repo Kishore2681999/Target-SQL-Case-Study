@@ -4,7 +4,8 @@ Data Analysis for Leading Brazilian Retailer
 
 Description:  Conducted comprehensive data analysis for a top Americas retailer, with a focus on their Brazil operations. Leveraged SQL to extract
               valuable insights, optimizing business strategies.
-
+              
+Tool Used  :  BigQuery
 
 Achievements: Explored dataset, revealing data types, customer distribution, and trends.
               Identified e-commerce trends, including seasonal peaks and buying habits.
